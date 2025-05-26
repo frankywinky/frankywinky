@@ -11,3 +11,5 @@
 ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white )
 
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white)
+
+![Python](https://img.shields.io/badge/-python-3776AB?style=flat&logo=python&logoColor=white)
